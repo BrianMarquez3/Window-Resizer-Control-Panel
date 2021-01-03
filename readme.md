@@ -4,7 +4,7 @@
 <p align="center">
   
   <a href="https://github.com/BrianMarquez3/Window-Resizer-Control-Panel/tags">
-    <img src="https://img.shields.io/github/tag/BrianMarquez3/Python-Course/Window-Resizer-Control-Panel.svg?label=version&style=flat" alt="Version">
+    <img src="https://img.shields.io/github/tag/BrianMarquez3/Window-Resizer-Control-Panel.svg?label=version&style=flat" alt="Version">
   </a>
   <a href="https://github.com/BrianMarquez3/Window-Resizer-Control-Panel/stargazers">
     <img src="https://img.shields.io/github/stars/BrianMarquez3/Window-Resizer-Control-Panel.svg?style=flat" alt="Stars">
